@@ -1,1 +1,1 @@
-
+AI-powered phishing website detection system that analyzes URL-based security features using machine learning to identify malicious websites in real time. Includes feature engineering, model training, explainability, and a deployable web application interface.
